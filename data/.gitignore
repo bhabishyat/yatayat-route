@@ -1,0 +1,4 @@
+i# Ignore all files inside except this ignore file
+*
+!.gitignore
+
